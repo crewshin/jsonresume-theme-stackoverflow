@@ -1,4 +1,4 @@
-# Stack Overflow theme for jsonresume [![npm version](https://badge.fury.io/js/jsonresume-theme-stackoverflow.svg)](http://badge.fury.io/js/jsonresume-theme-stackoverflow-roboto)
+# Stack Overflow theme for jsonresume [![npm version](https://badge.fury.io/js/jsonresume-theme-stackoverflow-roboto.svg)](http://badge.fury.io/js/jsonresume-theme-stackoverflow-roboto)
 
 ## This is the fork of original theme
 
