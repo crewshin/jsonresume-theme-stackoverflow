@@ -34,6 +34,12 @@
             {{#if summary}}
               <div class="summary">{{paragraphSplit summary}}</div>
             {{/if}}
+            {{#if url}}
+              <span class="url">
+                <span class="fas fa-external-link-alt"></span>
+                <a target="_blank" href="{{url}}">{{url}}</a>
+              </span>
+            {{/if}}
           </div>
         </section>
       {{/each}}
