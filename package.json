@@ -1,11 +1,11 @@
 {
   "name": "jsonresume-theme-stackoverflow-roboto",
   "version": "2.0.9",
-  "description": "Stack Overflow theme for JSON Resume, it's fork for bug fixing",
-  "author": "Roman Pinchuk",
+  "description": "Stack Overflow theme for JSON Resume",
+  "author": "Gene Crucean",
   "repository": {
     "type": "git",
-    "url": "https://github.com/roman-pinchuk/jsonresume-theme-stackoverflow-roboto"
+    "url": "https://github.com/crewshin/jsonresume-theme-stackoverflow"
   },
   "license": "MIT",
   "main": "index.js",
